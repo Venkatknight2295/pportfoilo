@@ -522,10 +522,7 @@ section {
 }
 
 
-.softwarePro:nth-of-type(13) {
-  background: url("./icons/Threejs.png") no-repeat;
-  background-size: cover;
-}
+
 
 .secPortTit {
   flex-wrap: wrap;
